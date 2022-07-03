@@ -1,1 +1,3 @@
-![dice](https://user-images.githubusercontent.com/72326674/177056845-f00d1245-ac2e-486a-bdf7-6f99bb1ae080.gif)
+## Roll dice app
+
+![dice](https://user-images.githubusercontent.com/72326674/177056989-e7b20a4a-bb4e-4ad5-ae48-3eb3ea765a28.gif)
